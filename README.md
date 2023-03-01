@@ -1,0 +1,2 @@
+# playdjango
+Django practice
